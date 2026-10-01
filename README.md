@@ -1,6 +1,6 @@
 # aws-lambda-example
 
-**Repository:** [github.com/suruj404/aws-lambda-example](https://github.com/suruj404/aws-lambda-example)
+**Repository:** [github.com/suruj404/aws-lambda-example](https://github.com/suruj404/Spring-Boot-AWS-Lambda-)
 
 A serverless Spring Boot 3 REST API packaged for deployment to AWS Lambda, using the [AWS Serverless Java Container](https://github.com/aws/serverless-java-container) to bridge Lambda's `RequestStreamHandler` interface with a standard Spring MVC application.
 
